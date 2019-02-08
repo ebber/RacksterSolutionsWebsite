@@ -1,5 +1,6 @@
 {
     "version": 2,
+    "alias":"rackstersolutions",
     "name": "nextjs",
     "builds": [
         { "src": "package.json", "use": "@now/next" }
